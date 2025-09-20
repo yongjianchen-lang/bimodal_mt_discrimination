@@ -1,2 +1,3 @@
 # From Shortcuts to Balance: Attribution Analysis of Speech-Text Feature Utilization in Distinguishing Original from Machine-Translated Texts
-Attribution analysis framework for speech-text multimodal machine translation detection. Investigates how bimodal models balance feature utilization and reduce reliance on named entity shortcuts.
+Authors: Yongjian Chen, Antonio Toral
+This repository contains the code and dataset for our EMNLP 2025 paper "From Shortcuts to Balance: Attribution Analysis of Speech-Text Feature Utilization in Distinguishing Original from Machine-Translated Texts".
